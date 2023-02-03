@@ -1,0 +1,2 @@
+# finance-logger
+TypeScript application
